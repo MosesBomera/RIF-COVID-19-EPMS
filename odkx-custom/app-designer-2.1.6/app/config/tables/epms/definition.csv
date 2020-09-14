@@ -1,0 +1,13 @@
+_element_key,_element_name,_element_type,_list_child_element_keys
+anosmia,anosmia,string,[]
+appetite,appetite,string,[]
+consent,consent,string,[]
+cough,cough,string,[]
+diarrhea,diarrhea,string,[]
+fatigue,fatigue,string,[]
+fever,fever,string,[]
+height,height,integer,[]
+location,location,string,[]
+person_age,person_age,integer,[]
+temperature,temperature,integer,[]
+weight,weight,integer,[]
